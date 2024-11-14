@@ -5,4 +5,8 @@ public class ClassPrueba {
 		return nombre;
 	}
     
+	public string IntentandoConflicto(String nombre){
+		return 'conflicto' + nombre;
+	}
+
 }
