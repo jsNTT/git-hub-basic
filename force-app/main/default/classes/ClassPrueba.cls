@@ -9,4 +9,8 @@ public class ClassPrueba {
 		return 'conflicto' + nombre;
 	}
 
+	public string HolaMundo(String nombre){
+		return 'Hola ' + nombre;
+	}
+
 }
