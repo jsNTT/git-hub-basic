@@ -5,4 +5,8 @@ public class ClassPrueba {
 		return nombre;
 	}
     
+	public string HolaMundo(String nombre){
+		return 'Hola ' + nombre;
+	}
+
 }
